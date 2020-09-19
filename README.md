@@ -17,3 +17,10 @@ Make foundational breaking change proposal for Bridged. We are working very hard
 We hightly recommand you to share thoughts on slack with the community before officially making a proposal. If your question or proposal is still valid, you are welcome to open a new issue
 
 Join us on [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA) and have a direct conversation with our core developers
+
+
+## 4. Roadmap on figma
+
+we manage our roadmap mainly on figma.
+here is the open link of our road map documentation [figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/whitepaper?node-id=0%3A1)
+the same managed document is available on [bridged.xyz/roadmap](https://bridged.xyz/roadmap)
