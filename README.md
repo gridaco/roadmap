@@ -22,5 +22,5 @@ Join us on [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-
 ## 4. Roadmap on figma
 
 we manage our roadmap mainly on figma.
-here is the open link of our road map documentation [figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/whitepaper?node-id=0%3A1)
+here is the open link of our road map documentation [figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/whitepaper?node-id=1%3A2)
 the same managed document is available on [bridged.xyz/roadmap](https://bridged.xyz/roadmap)
