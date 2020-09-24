@@ -24,3 +24,16 @@ Join us on [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-
 we manage our roadmap mainly on figma.
 here is the open link of our road map documentation [figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/whitepaper?node-id=1%3A2)
 the same managed document is available on [bridged.xyz/roadmap](https://bridged.xyz/roadmap)
+
+
+# 2020 - 2021
+
+## 2020 Q4
+**[lint](https://github.com/bridgedxyz/lint)**
+basic rule based linting including structure linting and naming linting. visual linting is not included.
+
+**[figma](https://github.com/bridgedxyz/figma)**
+figma plugin supporting linting and flutter code export with live preview (with [dynamic](https://github.com/bridgedxyz/dynamic))
+
+**[schema](https://github.com/bridgedxyz/schema)**
+schema engine that supports primary data types for seeding design
