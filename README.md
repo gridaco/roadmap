@@ -26,6 +26,19 @@ here is the open link of our road map documentation [figma](https://www.figma.co
 the same managed document is available on [bridged.xyz/roadmap](https://bridged.xyz/roadmap)
 
 
+## 5. Shortcuts
+> a set of link to projects, docs, and more
+
+- [core on figma (a.k.a engine design)](https://www.figma.com/file/iypAHagtcSp3Osfo2a7EDz/?node-id=0%3A1330)
+- [docs & website - bridged.xyz](https://github.com/bridgedxyz/bridged.xyz)
+- [context engine](https://github.com/bridgedxyz/context)
+- [schema engine](https://github.com/bridgedxyz/schema)
+- [pitch deck on figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/?node-id=0%3A1)
+- [reflect - design system](https://github.com/bridgedxyz/reflect.bridged.xyz)
+- [figma - bridged's figma plugin](https://github.com/bridgedxyz/figma)
+- [bridged (previously *studio*)](https://github.com/bridgedxyz/bridged)
+
+
 # 2020 - 2021
 
 ## 2020 Q4
@@ -37,3 +50,5 @@ figma plugin supporting linting and flutter code export with live preview (with 
 
 **[schema](https://github.com/bridgedxyz/schema)**
 schema engine that supports primary data types for seeding design
+
+
