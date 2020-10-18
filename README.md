@@ -19,10 +19,10 @@ We hightly recommand you to share thoughts on slack with the community before of
 Join us on [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA) and have a direct conversation with our core developers
 
 
-## 4. Roadmap on figma
+## 4. Roadmap on figma & notion
 
 we manage our roadmap mainly on figma.
-here is the open link of our road map documentation [figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/whitepaper?node-id=1%3A2)
+here is the open link of our road map documentation [figma](https://www.figma.com/file/5XdVMzAOP06ca3gUCoyPmJ/whitepaper?node-id=1%3A2), and our doc version of the same content on [notion](https://www.notion.so/bridgedxyz/df390b3a64504668ad8e09fd621884bb?v=abcf798d35e6408d9616704a8471f92d)
 the same managed document is available on [bridged.xyz/roadmap](https://bridged.xyz/roadmap)
 
 
