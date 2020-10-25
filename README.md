@@ -45,7 +45,7 @@ the same managed document is available on [bridged.xyz/roadmap](https://bridged.
 **[lint](https://github.com/bridgedxyz/lint)**
 basic rule based linting including structure linting and naming linting. visual linting is not included.
 
-**[figma](https://github.com/bridgedxyz/figma)**
+**[assistant](https://github.com/bridgedxyz/assistant)**
 figma plugin supporting linting and flutter code export with live preview (with [dynamic](https://github.com/bridgedxyz/dynamic))
 
 **[schema](https://github.com/bridgedxyz/schema)**
