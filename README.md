@@ -12,7 +12,7 @@ you might be asking in the wrong place. project specific questions and proposals
 Make foundational breaking change proposal for Bridged. We are working very hard to make our tools and foundation concetps general, and for everyone. If you have an idea for better approach, this is the place to appeal and take credit.
 
 
-## 3. Join us on chat ([slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA))
+## 3. Join us on slack / reddit ([slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA) / [reddit](https://www.reddit.com/r/bridged/))
 
 We hightly recommand you to share thoughts on slack with the community before officially making a proposal. If your question or proposal is still valid, you are welcome to open a new issue
 
