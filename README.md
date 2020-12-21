@@ -52,3 +52,48 @@ figma plugin supporting linting and flutter code export with live preview (with 
 schema engine that supports primary data types for seeding design
 
 
+# Overall
+> overall product development plans
+
+## General Products
+- [assistant](https://github.com/bridgedxyz/assistant)
+- [bridged console](https://github.com/bridgedxyz/console.bridged.xyz)
+- [bridged desktop app](https://github.com/bridgedxyz/bridged)
+- [bridged cloud services](https://github.com/bridgedxyz/services)
+
+## Extensions / Addons
+- [chrome extension](https://github.com/bridgedxyz/chrome-extension)
+- [vscode extension](https://github.com/bridgedxyz/vscode-extension)
+- [storybook addon](https://github.com/bridgedxyz/storybook-addon)
+
+
+## [Integrations](https://github.com/bridgedxyz/integrations)
+- Slack
+- Zira
+
+## Platform supports
+**design platforms**
+- figma plugin with [assistant](https://github.com/bridgedxyz/assistant)
+- sketch plugin with [assistant](https://github.com/bridgedxyz/assistant)
+- xd = not, and will not be supported.
+- zeplin = not, and will not be supported.
+- invision = not, and will not be supported.
+- framer (on investigation)
+
+
+## Engines
+- [context engine](https://github.com/bridgedxyz/context) for ui context detection
+- ui generation at [reflect-ui-generator](https://github.com/bridgedxyz/reflect-ui-generator)
+- [schema engine](https://github.com/bridgedxyz/schema)
+- [boring engine](https://github.com/bridgedxyz/boring)
+- [nothing engine](https://github.com/bridgedxyz/nothing)
+
+## Reflect
+- reflect core definitions at [reflect-core](https://github.com/bridgedxyz/reflect-core-ts)
+- reflect react components at [reflect](https://github.com/bridgedxyz/reflect)
+- reflect vue components at [reflect](https://github.com/bridgedxyz/reflect)
+- reflect flutter components at [reflect](https://github.com/bridgedxyz/reflect)
+- reflect android / ios native components are not supported
+
+## Technologies & Specs
+- g11n, a newly designed globallization format for global services
