@@ -18,6 +18,13 @@ We hightly recommand you to share thoughts on slack with the community before of
 
 Join us on [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA) and have a direct conversation with our core developers
 
+**Other communication channels**
+- [youtube](https://www.youtube.com/channel/UCgJO5apXl_pXRfTxNrkbEBw)
+- [twitter](https://twitter.com/bridgedxyz)
+- [instagram](https://www.instagram.com/bridged.xyz/)
+- [facebook](https://www.facebook.com/bridged.xyz)
+- [medium](https://medium.com/bridgedxyz)
+
 
 ## 4. Roadmap on figma & notion
 
