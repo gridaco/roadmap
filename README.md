@@ -48,7 +48,7 @@ the same managed document is available on [bridged.xyz/roadmap](https://bridged.
 
 # 2020 - 2021
 
-## 2020 Q4
+## 2021 Q1
 **[lint](https://github.com/bridgedxyz/lint)**
 basic rule based linting including structure linting and naming linting. visual linting is not included.
 
@@ -57,6 +57,9 @@ figma plugin supporting linting and flutter code export with live preview (with 
 
 **[schema](https://github.com/bridgedxyz/schema)**
 schema engine that supports primary data types for seeding design
+
+**[console](https://github.com/bridgedxyz/console.bridged.xyz)**
+console, place for communicating with your team with single source of truth: design.
 
 
 # Overall
