@@ -3,6 +3,9 @@
 
 Since we do not manage a separate community or a Q&A hub, this is the place for you to ask a general question about Bridged, and make a proposal for new features, or suggest breaking changes to our foundation technologies.
 
+## 0. Note that Bridged is renamed to Grida since July 2021
+Learn more about this event on [service migration docs](https://www.notion.so/grida/2021-Q3-Grida-initial-71651f97872a411897b9bbb438b4c671)
+
 ## 1. Ask non-project specific questions and Feature request
 Create issues for asking general questions and general proposals.
 
